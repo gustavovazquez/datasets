@@ -1,4 +1,4 @@
-superficie_m2,Num_Habitaciones,Num_Banos,Tamano_Terreno,Ano_Construccion,Distancia_Centro,Tipo_Propiedad,Color_Propiedad,ciudad,precio,superficie_pies,precio_ciudad
+Superficie_m2,Num_Habitaciones,Num_Banos,Tamano_Terreno,Ano_Construccion,Distancia_Centro,Tipo_Propiedad,Color_Propiedad,Ciudad,Precio,Superficie_pies,Precio_ciudad
 151.44357076505617,3,2,308.1393253535329,1950,33.7896635758134,Dúplex,Azul,Ciudad C,486391.9015803205,1630.1385957150644,470323.6538890899
 223.72867849414408,7,8,349.3624833988824,1965,37.74253920716516,Casa,Rojo,Ciudad A,901208.7180168788,2408.2154953109666,801033.1724678482
 142.39844269050346,5,3,279.2901584596764,2010,39.6831626644295,Dúplex,Azul,Ciudad A,603595.2091424013,1532.776837120579,536501.4514392177
